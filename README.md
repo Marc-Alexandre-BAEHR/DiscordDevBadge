@@ -10,3 +10,8 @@ Add the bot to your account
 
 # 4
 Launch the program
+
+# 5
+Wait 24h, and go to\
+https://discord.com/developers/active-developer \
+to claim the badge
